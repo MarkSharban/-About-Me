@@ -3,7 +3,7 @@
 <br/>
 
 ## 👨🏻‍💻 About Me:
-<img  src="./watermarked_preview.gif" height="290px" align="right" />
+<img  src="./watermarked_preview.gif" height="190px" align="right" />
 
 - 🙋‍♂️ All about me is at [My Website](https://marksharban.github.io/First-Portfolio/) <br/>
 - 👀 I’m interested in ... Web-development <br/> 
