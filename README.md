@@ -1,6 +1,6 @@
 # Hello 👋👋👋 I'm Mark Sharban
 ## 👨🏻‍💻 About Me:
-<img  src="./watermarked_preview.gif" height="290px" align="right" wight="20px"/>
+<img  src="./watermarked_preview.gif" height="20px" align="right" />
 <p>
 - 🙋‍♂️ All about me is at [My Website](https://marksharban.github.io/First-Portfolio/).
 - 👀 I’m interested in ... Web-development.
