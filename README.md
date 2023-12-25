@@ -2,10 +2,10 @@
 ## 👨🏻‍💻 About Me:
 <img  src="./watermarked_preview.gif" height="20px" align="right" />
 <p>
-- 🙋‍♂️ All about me is at [My Website](https://marksharban.github.io/First-Portfolio/).
-- 👀 I’m interested in ... Web-development.
-- 📫 How to reach me ... My WhatsApp (+32476680305).
-- 🌱I'm currently learning Javascript.
+- 🙋‍♂️ All about me is at [My Website](https://marksharban.github.io/First-Portfolio/)
+- 👀 I’m interested in ... Web-development
+- 📫 How to reach me ... My WhatsApp (+32476680305)
+- 🌱I'm currently learning Javascript
 - ⚡Interesting fact about me, I play Shogi
 </p>
 
