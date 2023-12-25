@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Mark Sharban</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Mark Sharban</h1>
 ## 👨🏻‍💻 About Me:
 *<img  src="./watermarked_preview.gif" height="290px" align="right" />*
 - 🙋‍♂️ All about me is at [My Website](https://marksharban.github.io/First-Portfolio/)
