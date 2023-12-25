@@ -1,11 +1,16 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">I'm Mark Sharban</h1>
+
+<br/>
+
 ## 👨🏻‍💻 About Me:
 *<img  src="./watermarked_preview.gif" height="290px" align="right" />*
-- 🙋‍♂️ All about me is at [My Website](https://marksharban.github.io/First-Portfolio/)
+<p>- 🙋‍♂️ All about me is at [My Website](https://marksharban.github.io/First-Portfolio/)
 - 👀 I’m interested in ... Web-development
 - 📫 How to reach me ... My WhatsApp (+32476680305)
 - 🌱I'm currently learning Javascript
 - ⚡Interesting fact about me, I play Shogi
+</p>
+
 
 ## 🛠️ Technologies and Tools I use:
 <p>
