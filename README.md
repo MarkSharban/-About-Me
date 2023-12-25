@@ -3,7 +3,9 @@
 <br/>
 
 ## 👨🏻‍💻 About Me:
-- 🙋‍♂️ All about me is at [My Website](https://soumyajit.vercel.app/) <br/>
+<img  src="./watermarked_preview.gif" height="290px" align="right" />
+
+- 🙋‍♂️ All about me is at [My Website](marksharban.github.io/First-Portfolio/) <br/>
 - 👀 I’m interested in ... Web-development <br/> 
 - 📫 How to reach me ... My WhatsApp (+32476680305) <br/> 
 - 🌱I'm currently learning Javascript <br/> 
