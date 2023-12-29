@@ -7,7 +7,7 @@
 - 🙋‍♂️ All about me is at [My Website](https://markisz.github.io/First-Portfolio/) <br/>
 - 👀 I’m interested in ... Web-development <br/> 
 - 📫 How to reach me ... My WhatsApp(+32476088305) <br/> 
-- 🌱I'm currently learning Javascript <br/> 
+- 🌱I'm currently learning JavaScript <br/> 
 - ⚡Interesting fact about me, I play Shogi <br/> 
 
 
