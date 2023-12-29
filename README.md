@@ -6,7 +6,7 @@
 
 - 🙋‍♂️ All about me is at [My Website](https://marksharban.github.io/First-Portfolio/) <br/>
 - 👀 I’m interested in ... Web-development <br/> 
-- 📫 How to reach me ... My WhatsApp (+32476680305) <br/> 
+- 📫 How to reach me ... markisz.github.io/First-Portfolio/<br/> 
 - 🌱I'm currently learning Javascript <br/> 
 - ⚡Interesting fact about me, I play Shogi <br/> 
 
