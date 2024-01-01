@@ -3,7 +3,6 @@
 
 ## 👨🏻‍💻 About Me:
 <img  src="./watermarked_preview.gif" height="280px" align="right" />
-<a href="https://markisz.github.io/First-Portfolio/" target="_blank">My Website</a>
 - 🙋‍♂️ All about me is at [My Website](https://markisz.github.io/First-Portfolio/) <br/>
 - 👀 I’m interested in ... Web-development <br/> 
 - 📫 How to reach me ... My WhatsApp(+32476088305) <br/> 
